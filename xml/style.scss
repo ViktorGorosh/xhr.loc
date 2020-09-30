@@ -1,0 +1,39 @@
+/* Common styles */
+body {
+	// font-family: "Montserrat", sans-serif;
+	// color: #1d1d1d;
+	// min-width: 320px;
+}
+table, td, th {
+	border: 1px solid black
+}
+table {
+	border-collapse: collapse;
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+/* My own styles expanding bootstrap */
+
+/* Main styles */
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1200px) {
+
+}
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 992px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 480px) {
+
+}
